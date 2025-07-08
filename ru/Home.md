@@ -14,7 +14,7 @@
 | Сохранение результата работы                            | Локально, в файле .ipynb |
 | Одновременное редактирование несколькими пользователями | :heavy_multiplication_x: |
 
-Стуктура данных [LocalModeFormat.md](local/LocalMode.md)
+Стуктура данных [LocalModeFormat.md](local/LocalModeFormat.md)
 
 ### Hosted
 
